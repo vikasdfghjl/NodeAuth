@@ -1,10 +1,10 @@
-const express = require('express')
+// const express = require('express')
 
-const apiv1 = express.Router();
+// const apiv1 = express.Router();
 
-apiv1.get('/',(req,res)=>{
-    res.send("API version 1")
-}
-)
+// apiv1.get('/',(req,res)=>{
+//     res.send("API version 1")
+// }
+// )
 
-module.exports = apiv1;
+// module.exports = apiv1;
